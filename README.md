@@ -7,3 +7,4 @@ This is also a Data analysis practice project which goals are as follows:
 - make a summary,
 - make a blog.
 # Code_challenges
+# Code_challenges
