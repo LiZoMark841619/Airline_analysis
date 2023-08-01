@@ -1,10 +1,8 @@
 # Airline_analysis
 
-This is also a Data analysis practice project which goals are as follows:
+This is also a Data analysis practice project and its goals are as follows:
 
-- make some visualisation charts,
+- make some visualization charts,
 - make some statements,
 - make a summary,
 - make a blog.
-# Code_challenges
-# Code_challenges
